@@ -2,7 +2,9 @@
 
 **👩‍💻 Candidate:** Aparna Pandey  
 **📆 Duration:** May – June 2025  
-**📂 Tasks Submitted:** ✅ Task 1 – Support Ticket Classifier | ✅ Task 2 – RAG Quote Retriever
+**📂 Tasks Submitted:** ✅ Task 1 – Support Ticket Classifier 
+**🎥 Video Walkthrough:** [Watch Demo Video](https://drive.google.com/drive/u/1/folders/1gSsVl_fWdiG-YFsKaqPMqclJs8ZvJX9x)  
+**📓 Google Colab Notebooks:** [Open Colab Folder](https://drive.google.com/drive/u/1/folders/1gSsVl_fWdiG-YFsKaqPMqclJs8ZvJX9x)
 
 ---
 
@@ -48,5 +50,4 @@ jupyter notebook ticket_classifier.ipynb
 python gradio_app.py
 
 
-**[▶️ Colab Notebook](https://colab.research.google.com/drive/1T6dI_USl3zn-gmckVVFaV_MjYDDmue4N)**
-**[📹 Demo Video] (https://drive.google.com/drive/u/1/folders/1gSsVl_fWdiG-YFsKaqPMqclJs8ZvJX9x)**
+
