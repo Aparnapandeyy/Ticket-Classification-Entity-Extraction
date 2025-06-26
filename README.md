@@ -48,5 +48,5 @@ jupyter notebook ticket_classifier.ipynb
 python gradio_app.py
 
 
-[▶️ Colab Notebook(https://colab.research.google.com/drive/1T6dI_USl3zn-gmckVVFaV_MjYDDmue4N)]
-[📹 Demo Video (https://drive.google.com/drive/u/1/folders/1gSsVl_fWdiG-YFsKaqPMqclJs8ZvJX9x)]
+**[▶️ Colab Notebook](https://colab.research.google.com/drive/1T6dI_USl3zn-gmckVVFaV_MjYDDmue4N)**
+**[📹 Demo Video] (https://drive.google.com/drive/u/1/folders/1gSsVl_fWdiG-YFsKaqPMqclJs8ZvJX9x)**
