@@ -1,2 +1,52 @@
-# Ticket-Classification-Entity-Extraction
-Develop a machine learning pipeline that classifies customer support tickets by their issue type and urgency level, and extracts key entities (e.g., product names, dates, complaint keywords). The file (ai_dev_assignment_tickets_complex_1000 ) is provided
+# 🤖 AI Internship Assignment – Vijayi WFH Technologies Pvt. Ltd
+
+**👩‍💻 Candidate:** Aparna Pandey  
+**📆 Duration:** May – June 2025  
+**📂 Tasks Submitted:** ✅ Task 1 – Support Ticket Classifier | ✅ Task 2 – RAG Quote Retriever
+
+---
+
+## 📁 Repository Structure
+
+
+---
+
+## 🧾 Task 1 – Customer Support Ticket Classifier & Entity Extractor
+
+### 🎯 Objective
+
+Build a multi-task machine learning pipeline to:
+- Classify support tickets into **Issue Type** and **Urgency Level**
+- Extract key entities: **Product Names**, **Dates**, and **Complaint Keywords**
+
+### 🛠️ Key Steps
+
+- **Data Cleaning**: Lowercasing, punctuation removal, stopword removal, lemmatization
+- **Feature Engineering**: 
+  - TF-IDF
+  - Ticket length, sentiment polarity
+- **Modeling**:
+  - Logistic Regression & Random Forest
+  - Separate models for issue type & urgency classification
+- **Entity Extraction**:
+  - Rule-based (keywords, regex for dates, dictionary for products)
+- **Integration**:
+  - Unified function for prediction and entity extraction
+- **Gradio Interface** *(optional)*
+
+### 📊 Evaluation
+
+- Accuracy, Precision, Recall, F1-score
+- Confusion matrix & class distribution visualizations
+
+### 🚀 Run Instructions
+
+```bash
+cd task1_ticket_classifier
+jupyter notebook ticket_classifier.ipynb
+# or (to launch UI)
+python gradio_app.py
+
+
+[▶️ Colab Notebook(https://colab.research.google.com/drive/1T6dI_USl3zn-gmckVVFaV_MjYDDmue4N)]
+[📹 Demo Video (https://drive.google.com/drive/u/1/folders/1gSsVl_fWdiG-YFsKaqPMqclJs8ZvJX9x)]
